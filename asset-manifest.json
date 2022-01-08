@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PreNotebook/static/css/main.8be0e3e8.chunk.css",
+    "main.js": "/PreNotebook/static/js/main.5de1bc25.chunk.js",
+    "main.js.map": "/PreNotebook/static/js/main.5de1bc25.chunk.js.map",
+    "runtime-main.js": "/PreNotebook/static/js/runtime-main.322a284c.js",
+    "runtime-main.js.map": "/PreNotebook/static/js/runtime-main.322a284c.js.map",
+    "static/js/2.cbd1cf0c.chunk.js": "/PreNotebook/static/js/2.cbd1cf0c.chunk.js",
+    "static/js/2.cbd1cf0c.chunk.js.map": "/PreNotebook/static/js/2.cbd1cf0c.chunk.js.map",
+    "static/js/3.864be9c7.chunk.js": "/PreNotebook/static/js/3.864be9c7.chunk.js",
+    "static/js/3.864be9c7.chunk.js.map": "/PreNotebook/static/js/3.864be9c7.chunk.js.map",
+    "index.html": "/PreNotebook/index.html",
+    "precache-manifest.037a573a3a511d05715903dbc60555a9.js": "/PreNotebook/precache-manifest.037a573a3a511d05715903dbc60555a9.js",
+    "service-worker.js": "/PreNotebook/service-worker.js",
+    "static/css/main.8be0e3e8.chunk.css.map": "/PreNotebook/static/css/main.8be0e3e8.chunk.css.map",
+    "static/js/2.cbd1cf0c.chunk.js.LICENSE.txt": "/PreNotebook/static/js/2.cbd1cf0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322a284c.js",
+    "static/js/2.cbd1cf0c.chunk.js",
+    "static/css/main.8be0e3e8.chunk.css",
+    "static/js/main.5de1bc25.chunk.js"
+  ]
+}
